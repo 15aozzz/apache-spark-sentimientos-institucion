@@ -1,0 +1,181 @@
+id;comentario;sentimiento
+1;Los horarios de clase funciona de manera regular, ni bien ni mal.;neutro
+2;Gran experiencia con los horarios de clase, todo funcionó de manera excelente.;positivo
+3;Definitivamente recomendaría el instituto, sobre todo por la plataforma virtual.;positivo
+4;En cuanto al servicio de wifi, la experiencia fue excelente y muy satisfactoria.;positivo
+5;Quiero destacar que la plataforma virtual funciona muy bien, se nota el esfuerzo del instituto.;positivo
+6;En cuanto a los precios de la pensión, la experiencia fue excelente y muy satisfactoria.;positivo
+7;En cuanto a los docentes, la experiencia fue muy mala y decepcionante.;negativo
+8;Los docentes se mantiene igual que el semestre pasado.;neutro
+9;Quiero quejarme porque los docentes no funciona bien, es un problema constante.;negativo
+10;Quiero destacar que la biblioteca funciona muy bien, se nota el esfuerzo del instituto.;positivo
+11;Mala experiencia con los docentes, todo funcionó de manera deficiente.;negativo
+12;En cuanto a la atención administrativa, la experiencia fue excelente y muy satisfactoria.;positivo
+13;Los laboratorios cumple lo mínimo necesario, sin sorpresas.;neutro
+14;Estoy muy contento con los docentes, cumplió todas mis expectativas.;positivo
+15;Los eventos culturales ha empeorado este semestre, es lamentable.;negativo
+16;Las instalaciones funciona de manera regular, ni bien ni mal.;neutro
+17;Mala experiencia con los eventos culturales, todo funcionó de manera deficiente.;negativo
+18;Con respecto a los precios de la pensión, todo estuvo dentro de lo esperado.;neutro
+19;No tengo una opinión fuerte sobre los horarios de clase, es aceptable.;neutro
+20;En cuanto a las instalaciones, la experiencia fue muy mala y decepcionante.;negativo
+21;Mala experiencia con la atención administrativa, todo funcionó de manera deficiente.;negativo
+22;En cuanto a los eventos culturales, la experiencia fue normal, sin nada destacable.;neutro
+23;Quiero destacar que los laboratorios funciona muy bien, se nota el esfuerzo del instituto.;positivo
+24;La atención administrativa ha empeorado este semestre, es lamentable.;negativo
+25;Los docentes funciona de manera regular, ni bien ni mal.;neutro
+26;En cuanto a los laboratorios, la experiencia fue normal, sin nada destacable.;neutro
+27;Los eventos culturales funciona de manera regular, ni bien ni mal.;neutro
+28;Estoy muy molesto con la plataforma virtual, no cumplió mis expectativas.;negativo
+29;Con respecto a la biblioteca, todo estuvo dentro de lo esperado.;neutro
+30;No tengo una opinión fuerte sobre los laboratorios, es aceptable.;neutro
+31;Estoy muy contento con la plataforma virtual, cumplió todas mis expectativas.;positivo
+32;Los horarios de clase ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+33;En cuanto al servicio de wifi, la experiencia fue normal, sin nada destacable.;neutro
+34;No recomendaría el instituto, sobre todo por el servicio de wifi.;negativo
+35;Estoy muy contento con el servicio de wifi, cumplió todas mis expectativas.;positivo
+36;No recomendaría el instituto, sobre todo por los precios de la pensión.;negativo
+37;No recomendaría el instituto, sobre todo por las instalaciones.;negativo
+38;Estoy muy molesto con la biblioteca, no cumplió mis expectativas.;negativo
+39;La atención administrativa cumple lo mínimo necesario, sin sorpresas.;neutro
+40;En cuanto a los docentes, la experiencia fue excelente y muy satisfactoria.;positivo
+41;Estoy muy molesto con los eventos culturales, no cumplió mis expectativas.;negativo
+42;La plataforma virtual ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+43;La plataforma virtual cumple lo mínimo necesario, sin sorpresas.;neutro
+44;En cuanto a las instalaciones, la experiencia fue normal, sin nada destacable.;neutro
+45;Mala experiencia con los precios de la pensión, todo funcionó de manera deficiente.;negativo
+46;Los docentes ha empeorado este semestre, es lamentable.;negativo
+47;No tengo una opinión fuerte sobre la biblioteca, es aceptable.;neutro
+48;Mala experiencia con la biblioteca, todo funcionó de manera deficiente.;negativo
+49;Estoy muy contento con los precios de la pensión, cumplió todas mis expectativas.;positivo
+50;Las instalaciones cumple lo mínimo necesario, sin sorpresas.;neutro
+51;Quiero destacar que el servicio de wifi funciona muy bien, se nota el esfuerzo del instituto.;positivo
+52;Quiero quejarme porque la plataforma virtual no funciona bien, es un problema constante.;negativo
+53;No tengo una opinión fuerte sobre los docentes, es aceptable.;neutro
+54;La plataforma virtual ha empeorado este semestre, es lamentable.;negativo
+55;En cuanto al servicio de wifi, la experiencia fue muy mala y decepcionante.;negativo
+56;En cuanto a los precios de la pensión, la experiencia fue normal, sin nada destacable.;neutro
+57;Los laboratorios funciona de manera regular, ni bien ni mal.;neutro
+58;Definitivamente recomendaría el instituto, sobre todo por los docentes.;positivo
+59;La biblioteca se mantiene igual que el semestre pasado.;neutro
+60;Gran experiencia con los docentes, todo funcionó de manera excelente.;positivo
+61;Con respecto a los docentes, todo estuvo dentro de lo esperado.;neutro
+62;Estoy muy contento con la atención administrativa, cumplió todas mis expectativas.;positivo
+63;Quiero quejarme porque la biblioteca no funciona bien, es un problema constante.;negativo
+64;En cuanto a la atención administrativa, la experiencia fue muy mala y decepcionante.;negativo
+65;Los horarios de clase ha empeorado este semestre, es lamentable.;negativo
+66;Los precios de la pensión funciona de manera regular, ni bien ni mal.;neutro
+67;En cuanto a los eventos culturales, la experiencia fue excelente y muy satisfactoria.;positivo
+68;No tengo una opinión fuerte sobre los eventos culturales, es aceptable.;neutro
+69;La plataforma virtual funciona de manera regular, ni bien ni mal.;neutro
+70;No tengo una opinión fuerte sobre las instalaciones, es aceptable.;neutro
+71;Definitivamente recomendaría el instituto, sobre todo por la atención administrativa.;positivo
+72;En cuanto a la biblioteca, la experiencia fue excelente y muy satisfactoria.;positivo
+73;Quiero quejarme porque los eventos culturales no funciona bien, es un problema constante.;negativo
+74;No tengo una opinión fuerte sobre los precios de la pensión, es aceptable.;neutro
+75;No recomendaría el instituto, sobre todo por los docentes.;negativo
+76;En cuanto a la biblioteca, la experiencia fue muy mala y decepcionante.;negativo
+77;Quiero quejarme porque el servicio de wifi no funciona bien, es un problema constante.;negativo
+78;En cuanto a la plataforma virtual, la experiencia fue muy mala y decepcionante.;negativo
+79;Definitivamente recomendaría el instituto, sobre todo por los laboratorios.;positivo
+80;El servicio de wifi cumple lo mínimo necesario, sin sorpresas.;neutro
+81;Con respecto a las instalaciones, todo estuvo dentro de lo esperado.;neutro
+82;Definitivamente recomendaría el instituto, sobre todo por los horarios de clase.;positivo
+83;La atención administrativa se mantiene igual que el semestre pasado.;neutro
+84;Los docentes ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+85;En cuanto a los docentes, la experiencia fue normal, sin nada destacable.;neutro
+86;Con respecto al servicio de wifi, todo estuvo dentro de lo esperado.;neutro
+87;Gran experiencia con los precios de la pensión, todo funcionó de manera excelente.;positivo
+88;Estoy muy molesto con el servicio de wifi, no cumplió mis expectativas.;negativo
+89;Con respecto a los eventos culturales, todo estuvo dentro de lo esperado.;neutro
+90;Los laboratorios se mantiene igual que el semestre pasado.;neutro
+91;En cuanto a la biblioteca, la experiencia fue normal, sin nada destacable.;neutro
+92;Los precios de la pensión ha empeorado este semestre, es lamentable.;negativo
+93;Mala experiencia con los horarios de clase, todo funcionó de manera deficiente.;negativo
+94;La plataforma virtual se mantiene igual que el semestre pasado.;neutro
+95;Los eventos culturales cumple lo mínimo necesario, sin sorpresas.;neutro
+96;No recomendaría el instituto, sobre todo por los horarios de clase.;negativo
+97;No tengo una opinión fuerte sobre la plataforma virtual, es aceptable.;neutro
+98;No recomendaría el instituto, sobre todo por la atención administrativa.;negativo
+99;Estoy muy molesto con las instalaciones, no cumplió mis expectativas.;negativo
+100;Definitivamente recomendaría el instituto, sobre todo por la biblioteca.;positivo
+101;Los precios de la pensión cumple lo mínimo necesario, sin sorpresas.;neutro
+102;Mala experiencia con la plataforma virtual, todo funcionó de manera deficiente.;negativo
+103;Definitivamente recomendaría el instituto, sobre todo por las instalaciones.;positivo
+104;La biblioteca ha empeorado este semestre, es lamentable.;negativo
+105;Con respecto a los laboratorios, todo estuvo dentro de lo esperado.;neutro
+106;Mala experiencia con los laboratorios, todo funcionó de manera deficiente.;negativo
+107;La atención administrativa ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+108;Quiero quejarme porque los laboratorios no funciona bien, es un problema constante.;negativo
+109;Los precios de la pensión se mantiene igual que el semestre pasado.;neutro
+110;Definitivamente recomendaría el instituto, sobre todo por el servicio de wifi.;positivo
+111;Gran experiencia con el servicio de wifi, todo funcionó de manera excelente.;positivo
+112;En cuanto a la plataforma virtual, la experiencia fue normal, sin nada destacable.;neutro
+113;El servicio de wifi ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+114;El servicio de wifi ha empeorado este semestre, es lamentable.;negativo
+115;No recomendaría el instituto, sobre todo por la biblioteca.;negativo
+116;Los eventos culturales ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+117;Los horarios de clase cumple lo mínimo necesario, sin sorpresas.;neutro
+118;En cuanto a los horarios de clase, la experiencia fue excelente y muy satisfactoria.;positivo
+119;En cuanto a la plataforma virtual, la experiencia fue excelente y muy satisfactoria.;positivo
+120;Estoy muy molesto con los horarios de clase, no cumplió mis expectativas.;negativo
+121;Los docentes cumple lo mínimo necesario, sin sorpresas.;neutro
+122;Quiero quejarme porque los horarios de clase no funciona bien, es un problema constante.;negativo
+123;Las instalaciones ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+124;Quiero destacar que los precios de la pensión funciona muy bien, se nota el esfuerzo del instituto.;positivo
+125;Estoy muy molesto con los precios de la pensión, no cumplió mis expectativas.;negativo
+126;Gran experiencia con los laboratorios, todo funcionó de manera excelente.;positivo
+127;En cuanto a los laboratorios, la experiencia fue muy mala y decepcionante.;negativo
+128;Con respecto a la plataforma virtual, todo estuvo dentro de lo esperado.;neutro
+129;Gran experiencia con la plataforma virtual, todo funcionó de manera excelente.;positivo
+130;Quiero destacar que los horarios de clase funciona muy bien, se nota el esfuerzo del instituto.;positivo
+131;Estoy muy molesto con la atención administrativa, no cumplió mis expectativas.;negativo
+132;No recomendaría el instituto, sobre todo por la plataforma virtual.;negativo
+133;Estoy muy contento con la biblioteca, cumplió todas mis expectativas.;positivo
+134;En cuanto a los precios de la pensión, la experiencia fue muy mala y decepcionante.;negativo
+135;Quiero destacar que la atención administrativa funciona muy bien, se nota el esfuerzo del instituto.;positivo
+136;No recomendaría el instituto, sobre todo por los eventos culturales.;negativo
+137;Gran experiencia con las instalaciones, todo funcionó de manera excelente.;positivo
+138;Quiero quejarme porque las instalaciones no funciona bien, es un problema constante.;negativo
+139;Los laboratorios ha empeorado este semestre, es lamentable.;negativo
+140;Quiero quejarme porque la atención administrativa no funciona bien, es un problema constante.;negativo
+141;En cuanto a los laboratorios, la experiencia fue excelente y muy satisfactoria.;positivo
+142;Quiero quejarme porque los precios de la pensión no funciona bien, es un problema constante.;negativo
+143;El servicio de wifi se mantiene igual que el semestre pasado.;neutro
+144;Con respecto a los horarios de clase, todo estuvo dentro de lo esperado.;neutro
+145;Estoy muy molesto con los laboratorios, no cumplió mis expectativas.;negativo
+146;No tengo una opinión fuerte sobre el servicio de wifi, es aceptable.;neutro
+147;Definitivamente recomendaría el instituto, sobre todo por los precios de la pensión.;positivo
+148;No tengo una opinión fuerte sobre la atención administrativa, es aceptable.;neutro
+149;No recomendaría el instituto, sobre todo por los laboratorios.;negativo
+150;En cuanto a los horarios de clase, la experiencia fue normal, sin nada destacable.;neutro
+151;Los precios de la pensión ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+152;Quiero destacar que los docentes funciona muy bien, se nota el esfuerzo del instituto.;positivo
+153;Mala experiencia con las instalaciones, todo funcionó de manera deficiente.;negativo
+154;En cuanto a la atención administrativa, la experiencia fue normal, sin nada destacable.;neutro
+155;En cuanto a los eventos culturales, la experiencia fue muy mala y decepcionante.;negativo
+156;Estoy muy contento con los eventos culturales, cumplió todas mis expectativas.;positivo
+157;Mala experiencia con el servicio de wifi, todo funcionó de manera deficiente.;negativo
+158;Los horarios de clase se mantiene igual que el semestre pasado.;neutro
+159;Estoy muy contento con los horarios de clase, cumplió todas mis expectativas.;positivo
+160;La biblioteca cumple lo mínimo necesario, sin sorpresas.;neutro
+161;Los eventos culturales se mantiene igual que el semestre pasado.;neutro
+162;Con respecto a la atención administrativa, todo estuvo dentro de lo esperado.;neutro
+163;Las instalaciones se mantiene igual que el semestre pasado.;neutro
+164;Gran experiencia con los eventos culturales, todo funcionó de manera excelente.;positivo
+165;Quiero destacar que los eventos culturales funciona muy bien, se nota el esfuerzo del instituto.;positivo
+166;Gran experiencia con la biblioteca, todo funcionó de manera excelente.;positivo
+167;Quiero destacar que las instalaciones funciona muy bien, se nota el esfuerzo del instituto.;positivo
+168;Estoy muy contento con las instalaciones, cumplió todas mis expectativas.;positivo
+169;En cuanto a los horarios de clase, la experiencia fue muy mala y decepcionante.;negativo
+170;La atención administrativa funciona de manera regular, ni bien ni mal.;neutro
+171;La biblioteca ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+172;La biblioteca funciona de manera regular, ni bien ni mal.;neutro
+173;Estoy muy contento con los laboratorios, cumplió todas mis expectativas.;positivo
+174;Gran experiencia con la atención administrativa, todo funcionó de manera excelente.;positivo
+175;Definitivamente recomendaría el instituto, sobre todo por los eventos culturales.;positivo
+176;Estoy muy molesto con los docentes, no cumplió mis expectativas.;negativo
+177;Las instalaciones ha empeorado este semestre, es lamentable.;negativo
+178;En cuanto a las instalaciones, la experiencia fue excelente y muy satisfactoria.;positivo
+179;Los laboratorios ha mejorado bastante este semestre, felicitaciones al equipo.;positivo
+180;El servicio de wifi funciona de manera regular, ni bien ni mal.;neutro
